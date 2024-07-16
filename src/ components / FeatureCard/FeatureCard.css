@@ -1,0 +1,8 @@
+.feature-card-container{
+    width: 28px; 
+    border: 1px solid black;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
